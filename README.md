@@ -1,6 +1,6 @@
 # DBMS-NBAplayer
 
-* follow the instruction section in the report *
+##### follow the instruction section in the report
 
 1. Schema & table creation is in "Schema and table creation" folder.
 2. Table datas are in the "CSV files" folder.
